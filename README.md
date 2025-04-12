@@ -1,19 +1,20 @@
-<h1 align="center">👋 Assalomu alaykum, I'm Akobir Rustamov!</h1>
+<h1 align="center">👋 Assalomu alaykum, I'm Akobir Rustamov</h1>
 
 <p align="center">
-  <strong>Full-stack Developer • Python | PostgreSQL | Aiogram | React</strong><br/>
-  🔧 Passionate about building elegant bots, automation, and scalable web solutions.
+  <strong>Full-stack Developer | AI & Automation Enthusiast | API Integrator</strong><br/>
+  🧠 I turn ideas into code — from bots to mobile apps to backend systems.
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🧠 Backend-focused developer with strong experience in **Python**, **FastAPI**, and **PostgreSQL**
-- 🤖 Telegram bot wizard using **Aiogram** (v2 & v3)
-- 🌐 Frontend lover too — building with **React**, **TailwindCSS**
-- 💼 Freelancer on Upwork | Building powerful automation & integrations
-- 🧩 Problem-solver with a clean code mindset and product-first approach
+- 💻 Strong experience in **Python**, **FastAPI**, **PostgreSQL**, and **Java/Spring Boot**
+- 🤖 Building advanced **Telegram bots** with **Aiogram** and async architecture
+- 📱 Mobile developer with **React Native** — building apps for both Android & iOS
+- 🧠 Passionate about **AI programming**, including ML integration and automation
+- 🔌 Experienced with **API integrations** — especially in **trading & financial markets**
+- 📈 Focused on building real-world systems: bots, dashboards, admin panels, and more
 
 ---
 
@@ -21,11 +22,14 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Aiogram-00BFFF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Aiogram-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-Programming-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Trading_APIs-009688?style=for-the-badge"/>
 </div>
 
 ---
